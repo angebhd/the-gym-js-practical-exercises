@@ -8,3 +8,9 @@ let products = [{name: "cookies", price: 200},
             ];
 
 console.log(sortProduct(products));
+/* 
+Conpare function
+    Ascending order
+        - a < b : -1 [Negative value]
+        - a > b : 1 [positive value]
+*/
