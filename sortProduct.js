@@ -11,6 +11,12 @@ console.log(sortProduct(products));
 /* 
 Conpare function
     Ascending order
-        - a < b : -1 [Negative value]
-        - a > b : 1 [positive value]
+        - a < b : return -1 [Negative value]
+        - a > b : return 1 [positive value]
+        + return a - b
+    
+    Descending order
+        - a > b : return -1 [Negative value]
+        - a < b : return 1 [positive value]
+        + return b - a
 */
